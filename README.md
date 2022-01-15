@@ -2,7 +2,7 @@
 - 👀 I’m interested in telecom systems
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on telecom projects
-- 📫 How to reach me ...mukhalisi.edwin@sstudents.uonbi.ac.ke
+- 📫 How to reach me ...mukhalisi.edwin@students.uonbi.ac.ke
 
 <!---
 edwinster/edwinster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
